@@ -11,7 +11,7 @@ These instructions will guide you through the process of preparing and painting 
 ### Prerequisites:
 
 - A 3D model of a blank plate for a Raspberry Pi.
-   - [Download Blank Plate Model](https://raw.githubusercontent.com/ItalianSquirel/ItalianSquirel.com/master/assets/BambuPaint/BlankPiPlate.stl)
+   - [Download Blank Plate Model](https://github.com/ItalianSquirel/ItalianSquirel.com/raw/master/Blank%20PiPLATE.f3d)
 - A DXF or SVG file of your desired design.
 - Fusion 360 software.
 - Bambu Labs 3D Printer with AMS Paint Tool.

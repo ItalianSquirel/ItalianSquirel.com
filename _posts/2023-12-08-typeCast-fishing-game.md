@@ -1,8 +1,9 @@
 ---
-title: TypeCast: A Deep Dive into Optimization and Low-Level Programming
+title: TypeCast: A Dive into Optimization and LowLevel Programming
 published: true
 ---
 ---
+
 
 Hey there, Assembly enthusiasts! Let's talk about an intriguing GitHub project, [TypeCast](https://github.com/ItalianSquirel/TypeCast), a fusion of fishing and typing challenges in a text-based console game. Developed by Petie Deveer and Adrian Burke, this game is not just about quick fingers but also about efficient coding.
 

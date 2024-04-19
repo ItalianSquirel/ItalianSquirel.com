@@ -4,7 +4,6 @@ published: true
 ---
 ---
 
-
 Howdy fellow Assembly enthusiasts! Today I want to share with you our exciting GitHub project, [TypeCast](https://github.com/ItalianSquirel/TypeCast), a creative blend of fishing and typing challenges in a text-based console game. Developed by my team, including Adrian Burke, this game isn't just about fast typing but also about efficient and smart coding.
 
 ## Our Approach to Optimization
